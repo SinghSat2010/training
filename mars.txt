@@ -1,3 +1,4 @@
+
  We have packed out toolset and ready to launch to space
 We are docked into the international station and ready for sling to mars
 I have lots of time and I am starting my jounal on the way to mars
@@ -6,3 +7,4 @@ Adding another journal entry
 We are approaching mars orbit, ready to alight
 Mars looks very pretty from here.
 Now I'm making a journal entry from my computer.
+new test
