@@ -1,0 +1,5 @@
+[user]
+	name = Satwinder Singh    
+	email = singhsat2010@gmail.com
+[credential "https://github.com"]
+	provider = generic
